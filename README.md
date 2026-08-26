@@ -1,4 +1,4 @@
-# ferreira.dev
+<img src="https://readme-typing-svg.demolab.com/?lines=f+e+r+r+e+i+r+a+.+d+e+v" >
 
 Estudante de Desenvolvimento Web  
 SENAI
