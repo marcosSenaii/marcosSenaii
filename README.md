@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com/?lines=f+e+r+r+e+i+r+a+.+d+e+v" >
+<img src="https://readme-typing-svg.demolab.com/?lines=f+e+r+r+e+i+r+a+.+d+e+v&color=#535353" >
 
 Estudante de Desenvolvimento Web  
 SENAI
