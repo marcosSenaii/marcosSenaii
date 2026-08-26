@@ -1,9 +1,8 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=f+e+r+r+e+i+r+a+.+d+e+v&color=676767" >
-
 ## sobre mim
 
-Estudante de desenvolvimento web no SENAI.  
-Foco em construção de aplicações web com tecnologias modernas.
+estudante de desenvolvimento web no SENAI.  
+foco em construção de aplicações web com tecnologias modernas.
 
 ---
 
@@ -37,4 +36,5 @@ Foco em construção de aplicações web com tecnologias modernas.
 
 ## contato
 
-Disponível para contato através do GitHub.
+disponível para contato através do GitHub.
+(provavelmente esse perfil vai ficar de keke no github 🤭)
