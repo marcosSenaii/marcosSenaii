@@ -1,5 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=f+e+r+r+e+i+r+a+.+d+e+v&color=676767" >
 
+---
+
 ## sobre mim
 
 estudante de desenvolvimento web no SENAI.  
