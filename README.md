@@ -1,40 +1,46 @@
-<div align="center">
- 
-<img width="100%" src="https://vercel.app✦%20web%20developer%20in%20progress%20✦&descAlignY=60&descSize=18"/>
- 
-<br>
- 
-<img src="https://demolab.com"/>
- 
-</div>
- 
-<br><br>
- 
-<div align="center">
- 
-## 🌐 technologies
- 
-<br>
- 
-<img src="https://skillicons.dev" />
- 
-<br><br>
- 
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
-<img src="https://shields.io"/>
- 
-</div>
- 
-<br><br>
- 
- 
-<div align="center">
- 
-<img width="100%" src="https://vercel.app"/>
- 
-</div>
+# . mY sLAtT . 💋🦇
+
+## * o_O * wHAt_y0U_wAnT?
+> i m0vE iN tH3 sHAd0wS . . . l00k1nG f0r tH3 nEw s0uNd *
+> ++ d0 n0t tAlK t0 mE ++ tH3 c0dE sP3aKs f0r mE .
+
+---
+
+### [ 🧛 vAmP_sTaCk ]
+
+#### . tH3_fR0nT .
+* **HTML** *++ rAw_*
+* **CSS** *++ dArK_*
+* **JAVASCRIPT** *++ cH4oS_*
+* **REACT JS** *++ d3LuX3_*
+
+#### . tH3_bAcK .
+* **PYTHON** *++ sL1tH3r_*
+* **NODEJS** *++ v1b3s_*
+
+#### . tH3_vAuLt .
+* **MYSQL** *++ s3cR3tS_*
+
+#### . tH3_l00p .
+* **GIT** *++ tRaCk1nG_*
+* **GITHUB** *++ h1dE0uT_*
+
+---
+
+## 🖤 sTaTs_++
+
+```text
+[ 00:00 ] . . . l0Ad1nG tH3 n1gHt . . .
+=========================================
+c0d1nG : bLeEd1nG
+sTaTuS : 0uT oF mY m1nD
+=========================================
+```
+
+### * sHhH *
+*++ d0nT_f0lL0w_mE . . .*
+```text
+  _/\_
+ ( o.o )  * bAt *
+  > ^ <
+```
