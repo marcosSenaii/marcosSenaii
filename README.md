@@ -1,46 +1,45 @@
-# . mY sLAtT . 💋🦇
+# ferreira.dev
 
-## * o_O * wHAt_y0U_wAnT?
-> i m0vE iN tH3 sHAd0wS . . . l00k1nG f0r tH3 nEw s0uNd *
-> ++ d0 n0t tAlK t0 mE ++ tH3 c0dE sP3aKs f0r mE .
-
----
-
-### [ 🧛 vAmP_sTaCk ]
-
-#### . tH3_fR0nT .
-* **HTML** *++ rAw_*
-* **CSS** *++ dArK_*
-* **JAVASCRIPT** *++ cH4oS_*
-* **REACT JS** *++ d3LuX3_*
-
-#### . tH3_bAcK .
-* **PYTHON** *++ sL1tH3r_*
-* **NODEJS** *++ v1b3s_*
-
-#### . tH3_vAuLt .
-* **MYSQL** *++ s3cR3tS_*
-
-#### . tH3_l00p .
-* **GIT** *++ tRaCk1nG_*
-* **GITHUB** *++ h1dE0uT_*
+Estudante de Desenvolvimento Web  
+SENAI
 
 ---
 
-## 🖤 sTaTs_++
+## Sobre
 
-```text
-[ 00:00 ] . . . l0Ad1nG tH3 n1gHt . . .
-=========================================
-c0d1nG : bLeEd1nG
-sTaTuS : 0uT oF mY m1nD
-=========================================
-```
+Estudante de desenvolvimento web no SENAI.  
+Foco em construção de aplicações web com tecnologias modernas.
 
-### * sHhH *
-*++ d0nT_f0lL0w_mE . . .*
-```text
-  _/\_
- ( o.o )  * bAt *
-  > ^ <
-```
+---
+
+## Tecnologias
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572b6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776ab" alt="Python"/>
+  <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479a1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Sequelize-0d1117?style=for-the-badge&logo=sequelize&logoColor=52b0e7" alt="Sequelize"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+</p>
+
+---
+
+## Stack
+
+| Camada        | Tecnologias                  |
+|---------------|------------------------------|
+| Frontend      | HTML · CSS · JavaScript · React |
+| Backend       | Node.js · Python             |
+| Banco de Dados| MySQL · Sequelize            |
+| Versionamento | Git · GitHub                 |
+
+---
+
+## Contato
+
+Disponível para contato através do GitHub.
