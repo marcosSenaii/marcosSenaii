@@ -1,18 +1,13 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=f+e+r+r+e+i+r+a+.+d+e+v&color=676767" >
 
-Estudante de Desenvolvimento Web  
-SENAI
-
----
-
-## Sobre
+## sobre mim
 
 Estudante de desenvolvimento web no SENAI.  
 Foco em construção de aplicações web com tecnologias modernas.
 
 ---
 
-## Tecnologias
+## tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML5"/>
@@ -29,7 +24,7 @@ Foco em construção de aplicações web com tecnologias modernas.
 
 ---
 
-## Stack
+## stack
 
 | Camada        | Tecnologias                  |
 |---------------|------------------------------|
@@ -40,6 +35,6 @@ Foco em construção de aplicações web com tecnologias modernas.
 
 ---
 
-## Contato
+## contato
 
 Disponível para contato através do GitHub.
