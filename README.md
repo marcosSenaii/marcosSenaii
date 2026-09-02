@@ -1,13 +1,9 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=f+e+r+r+e+i+r+a+.+d+e+v&color=FFF" >
 
----
-
 ## sobre mim
 
 estudante de desenvolvimento web no SENAI.  
 foco em construção de aplicações web com tecnologias modernas.
-
----
 
 ## tecnologias
 
@@ -24,8 +20,6 @@ foco em construção de aplicações web com tecnologias modernas.
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
 </p>
 
----
-
 ## stack
 
 | Camada        | Tecnologias                  |
@@ -34,8 +28,6 @@ foco em construção de aplicações web com tecnologias modernas.
 | Backend       | Node.js · Python             |
 | Banco de Dados| MySQL · Sequelize            |
 | Versionamento | Git · GitHub                 |
-
----
 
 ## contato
 
